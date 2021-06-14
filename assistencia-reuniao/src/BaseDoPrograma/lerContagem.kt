@@ -5,7 +5,6 @@ import java.lang.Exception
 
 fun lerArquivo()
 {
-
     try {
         val fin = FileReader("reuniao.txt")
         var c: Int?
